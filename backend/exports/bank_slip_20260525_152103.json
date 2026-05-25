@@ -1,0 +1,13 @@
+{
+    "transaction_id": "TXN-HBL-2026-998877",
+    "date": "25-May-2026",
+    "time": "11:45:22 AM",
+    "sender_name": "Muhammad Usman",
+    "receiver_name": "Sara Ahmed",
+    "bank_name": "Habib Bank Limited",
+    "amount": "PKR 75,000.00",
+    "currency": "PKR",
+    "transaction_type": "Online Fund Transfer",
+    "reference_number": "HBL-REF-20260525-7731",
+    "status": "SUCCESSFUL"
+}

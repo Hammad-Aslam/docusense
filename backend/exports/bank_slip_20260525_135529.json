@@ -1,0 +1,13 @@
+{
+    "transaction_id": "TXN-2026-084521",
+    "date": "25-May-2026",
+    "time": "02:34:17 PM",
+    "sender_name": "Ahmed Raza",
+    "receiver_name": "Ali Hassan",
+    "bank_name": "MEEZAN BANK LIMITED",
+    "amount": "PKR 25,000.00",
+    "currency": "PKR",
+    "transaction_type": "IBFT Transfer",
+    "reference_number": "REF-2026-552341",
+    "status": "SUCCESS"
+}

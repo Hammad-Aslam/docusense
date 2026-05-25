@@ -1,0 +1,10 @@
+fastapi==0.115.0
+uvicorn==0.30.6
+python-multipart==0.0.9
+pillow==10.4.0
+pytesseract==0.3.13
+groq==0.11.0
+pandas==2.2.3
+openpyxl==3.1.5
+python-dotenv==1.0.1
+opencv-python==4.10.0.84

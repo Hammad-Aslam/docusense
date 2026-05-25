@@ -1,0 +1,31 @@
+{
+    "invoice_number": "INV-2026-0042",
+    "vendor_name": "TechSolutions Pvt Ltd",
+    "bill_to": "Global Traders Ltd",
+    "date": "25-May-2026",
+    "due_date": "10-Jun-2026",
+    "subtotal": "140,000",
+    "tax": "22,400",
+    "total_amount": "162,400",
+    "currency": "PKR",
+    "line_items": [
+        {
+            "description": "Web Development Services",
+            "qty": 1,
+            "rate": "80,000",
+            "amount": "80,000"
+        },
+        {
+            "description": "UI/UX Design",
+            "qty": 1,
+            "rate": "30,000",
+            "amount": "30,000"
+        },
+        {
+            "description": "API Integration",
+            "qty": 2,
+            "rate": "15,000",
+            "amount": "30,000"
+        }
+    ]
+}
